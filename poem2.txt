@@ -1,6 +1,8 @@
 jphnny johnny yes papa 
 eating sugar what you are
 this is about 2nd commit in poem2
+i am adding new information for commit 3
+
 
 
 this is in new branch not in main 
